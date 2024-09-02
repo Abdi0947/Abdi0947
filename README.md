@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/22776b23-7e6f-43d4-8894-9c855800823d)
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/22776b23-7e6f-43d4-8894-9c855800823d)
 
 # 💫 About Me:
 I'm Abdi, a frontend developer specializing in captivating web experiences. <br>With expertise in HTML, CSS, and JavaScript, and React.<br>I transform designs into functional web
