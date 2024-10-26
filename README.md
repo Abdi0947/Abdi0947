@@ -51,15 +51,15 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdi/abdi/main/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdi0947/abdi0947/main/github-contribution-grid-snake.svg" />
 </div>
 
 <hr/>
 
 ## ⚡ Stats ⚡
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi&theme=react&border_radius=10" alt="Streak Stats">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=abdi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi0947&theme=react&border_radius=10" alt="Streak Stats">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=abdi0947&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats">
   <br>
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages">
 </div>
