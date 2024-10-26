@@ -8,10 +8,11 @@
   <h3>MERN Stack Developer</h3>
   
   <p>
-    🎓 4th-year Software Engineering student at Haramaya University<br>
-    💻 Passionate about solving real-world problems and delivering high-quality software<br>
-    🚀 Constantly learning about technology and business ideas<br>
-    💼 Love discussing business and management topics<br>
+   🎓 4th-year Software Engineering student at Haramaya University<br>
+  💻 Passionate about developing user-friendly interfaces and responsive, handy websites<br>
+  🚀 Committed to solving real-world problems with high-quality software solutions<br>
+  📱 Eager to learn about emerging technologies and innovative business ideas<br>
+  💼 Enthusiastic about discussing business and management strategies
     📞 Phone: +251947526347
   </p>
   
