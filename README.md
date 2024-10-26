@@ -51,7 +51,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://github.com/Abdi0947/Abdi0947/blob/5a9f36ae9d1ba07a7fcf25548f9c1e7f055bc680/new" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdi0947/abdi0947/main/dist/new.svg" />
 </div>
 
 
