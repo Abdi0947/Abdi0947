@@ -1,22 +1,24 @@
 <div align="center">
-  <!--  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abdi.Abdi" /> -->
+  <!--  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdi.debela" /> -->
   
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdi+Debela!;" />
   </h1>
   
-  <h3>  Fullstack Dev</h3>
+  <h3>MERN Stack Developer</h3>
   
   <p>
-    🎓 3rd-year Software Engineering student<br>
+    🎓 4th-year Software Engineering student at Haramaya University<br>
     💻 Passionate about solving real-world problems and delivering high-quality software<br>
     🚀 Constantly learning about technology and business ideas<br>
     💼 Love discussing business and management topics
   </p>
   
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:debelaabdi3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <br>
+  <p>Contact: +251947526347</p>
 </div>
 
 <hr/>
@@ -49,17 +51,17 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abdi/Abdi/main/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdi/abdi/main/github-contribution-grid-snake.svg" />
 </div>
 
 <hr/>
 
 ## ⚡ Stats ⚡
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdi&theme=react&border_radius=10" alt="Streak Stats">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Abdi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=abdi&theme=react&border_radius=10" alt="Streak Stats">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=abdi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats">
   <br>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages">
 </div>
 
 <hr/>
