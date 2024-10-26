@@ -1,27 +1,71 @@
-## Hi there 👋
-![image](https://github.com/user-attachments/assets/22776b23-7e6f-43d4-8894-9c855800823d)
+<div align="center">
+  <!--  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abdi.Abdi" /> -->
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdi!;" />
+  </h1>
+  
+  <h3>  Fullstack Dev</h3>
+  
+  <p>
+    🎓 3rd-year Software Engineering student<br>
+    💻 Passionate about solving real-world problems and delivering high-quality software<br>
+    🚀 Constantly learning about technology and business ideas<br>
+    💼 Love discussing business and management topics
+  </p>
+  
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
-# 💫 About Me:
-I'm Abdi, As a skilled React and Next.js developer, I specialize in crafting captivating web experiences. My expertise in HTML, CSS, and JavaScript allows me to seamlessly transform designs into functional and modern web applications. I'm passionate about building dynamic and engaging digital solutions that exceed user expectations. With a strong foundation in web development technologies, I'm dedicated to staying up-to-date with industry trends and best practices.
+<hr/>
 
+## ⚒️ Languages, Frameworks, Libraries, and Tools
+<div align="center">
+  <strong>Languages:</strong> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /><br>
+  
+  <strong>Frameworks, Tools, and Libraries:</strong> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdi Debela Abdisa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@abdi.debela.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdi Debela) 
+<hr/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdi0947&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abdi0947&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdi0947&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Abdi/Abdi/main/github-contribution-grid-snake.svg" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdi0947&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+<hr/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Abdi0947&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## ⚡ Stats ⚡
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdi&theme=react&border_radius=10" alt="Streak Stats">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=Abdi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="Readme Stats">
+  <br>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="Top Languages">
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Abdi0947&icon=6&color=4)](https://visitcount.itsvg.in)
+<hr/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h2>
+    <img src="https://readme.typing.svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Thanks+for+visiting+my+profile!;Hope+you+enjoyed+exploring+my+work!;Feel+free+to+reach+out+for+collaboration+or+just+to+say+hi!&duration=4000">
+  </h2>
+</div>
