@@ -7,7 +7,14 @@
   
   <h3>MERN Stack Developer</h3>
   
-  <p> 🎓 Software Engineer 💻 Passionate about developing user-friendly interfaces and responsive, efficient websites 🚀 Committed to solving real-world problems with high-quality software solutions 🧠 Completed the A2SV DSA program, strong problem solver with 500+ problems solved on LeetCode and Codeforces 📱 Eager to learn about emerging technologies and innovative business ideas 💼 Enthusiastic about discussing business and management strategies </p>
+  <p> 
+    🎓 Software Engineer 
+    
+    💻 Passionate about developing user-friendly interfaces and responsive, efficient websites
+    🚀 Committed to solving real-world problems with high-quality software solutions
+    🧠 Completed the A2SV DSA program, strong problem solver with 500+ problems solved on LeetCode and Codeforces 
+    📱 Eager to learn about emerging technologies and innovative business ideas 
+    💼 Enthusiastic about discussing business and management strategies </p>
     📞 Phone: +251947526347
   </p>
   
